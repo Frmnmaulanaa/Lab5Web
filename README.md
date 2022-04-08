@@ -345,7 +345,7 @@ Disini membuat **form input** dengan ***function javascript*** dan pengondisian 
 ## 10). FORM BUTTON
 
 ## CODE DAN TAMPILAN DIBROWSER NYA!
-![form_button](img/form_button.png)
+![form_button](img/b2.png)
 
 **PENJELASAN**
 
